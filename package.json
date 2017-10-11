@@ -1,0 +1,19 @@
+{
+  "name": "cardinal_test",
+  "version": "1.0.0",
+  "description": "DNA sequence matching Algorithm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Deep Trivedi",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "expect": "^21.2.1",
+    "express": "^4.16.2",
+    "lodash": "^4.17.4",
+    "mocha": "^4.0.1",
+    "supertest": "^3.0.0"
+  }
+}
