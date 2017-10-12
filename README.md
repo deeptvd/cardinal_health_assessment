@@ -50,4 +50,4 @@ Deep Trivedi, deeptvd@gmail.com
 Run the application to identify the longest DNA sequence
 
 ### Live Demo:-
-![Alt text](/Screenshots/Question1.jpg?raw=true "Optional Title")
+![Live Demo](/Screenshots/Question1.gif?raw=true "Optional Title")
