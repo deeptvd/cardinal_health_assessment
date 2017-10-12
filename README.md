@@ -51,3 +51,12 @@ Run the application to identify the longest DNA sequence
 
 ### Live Demo:-
 ![Live Demo](/Screenshots/Question1.gif?raw=true "Optional Title")
+
+### Scenario1:
+![1st Example](/Screenshots/Screenshot1.png?raw=true "Optional Title")
+
+### Scenario2:
+![2nd Example](/Screenshots/Screenshot2.png?raw=true "Optional Title")
+
+### Test Cases:
+![Test Cases](/Screenshots/TestCases.png?raw=true "Optional Title")
